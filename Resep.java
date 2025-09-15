@@ -15,6 +15,8 @@ public class Resep {
         System.out.println("11. Daging Sapi");
         System.out.println("12. Daging Kambing");
         System.out.println("13. Saos Tomat");
+         System.out.println("14. Daging Onta");
+        System.out.println("15. Saos Tiram");
        
     }
 }
