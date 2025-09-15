@@ -12,6 +12,9 @@ public class Resep {
         System.out.println("8. Mayonaise");
         System.out.println("9. Kecap bango cap ketua");
         System.out.println("10. Daging rusa");
+        System.out.println("11. Daging Sapi");
+        System.out.println("12. Daging Kambing");
+        System.out.println("13. Saos Tomat");
        
     }
 }
